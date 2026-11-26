@@ -1,4 +1,12 @@
-h1 {
+/* h1 {
     color: purple;
     background-color: lightgray;
+} */
+
+div {
+    box-sizing: content-box;
+    padding: 10px;
+    border: 1px solid red;
+    height: 400px;
+    width: 5%;
 }
